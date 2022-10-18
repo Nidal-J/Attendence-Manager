@@ -1,6 +1,6 @@
 # Attendance Manager
 
-App to follow up students your own courses
+App to follow up students of your own courses
 
 ## App Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
